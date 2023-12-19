@@ -1,4 +1,1 @@
-Ed12 1.51
-E521it 2.3
-E12it 3.5
-newLine
+samFinal
